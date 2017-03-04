@@ -8,22 +8,12 @@ Placing a penny on every planet is part of what it means to be human. This monum
 
 It may seem a little strange, but honoring our 16th president by placing his face on all the planets will actually aid our advancement in technology and will strengthen our economy.
 
+1. This will bring and estimated 18,000 jobs to our economy, because since this will obviously be the top priority for NASA they will need to hire a temporary 18,000 more employees to run whatever else they were doing before this. [(NASA)](https://www.nasa.gov/audience/forstudents/5-8/features/nasa-knows/what-is-nasa-58.html).
+
 ```markdown
-Syntax highlighted code block
+Reasons why this is a good idea:
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+1. This will bring an estimated 10
 ```
 
 Let's place A Penny On Every Planet and MAKE OUR SOLAR SYSTEM GREAT AGAIN!!!
