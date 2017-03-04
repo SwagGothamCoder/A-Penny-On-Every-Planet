@@ -4,9 +4,9 @@ This is the official site of the long desired goal of Abraham Lincoln to place a
 
 Placing a penny on every planet is part of what it means to be human. This monumental embarkment will change humanity forever. Every man and woman for centuries will be proud of our endeavors. JFK once said in a famous speech, "We choose to go to the moon in this decade and do the other things, not because they are easy, but because they are hard" [(NASA)](https://www.nasa.gov/50th/50th_magazine/kennedyLetter.html). We now know that putting a penny on every planet is one of those "other things" that define us as humans and will test the limits of our technological capabilities. This challenge to place a penny on every planet in our solar system began with the moon landings and will be the pinacle of space exploration.
 
-### Markdown
+### Seriously, Why?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+It may seem a little strange, but honoring our 16th president by placing his face on all the planets will actually aid our advancement in technology and will strengthen our economy.
 
 ```markdown
 Syntax highlighted code block
@@ -26,12 +26,12 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Let's place A Penny On Every Planet and MAKE OUR SOLAR SYSTEM GREAT AGAIN!!!
 
-### Jekyll Themes
+### Donations
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SwagGothamCoder/A-Penny-On-Every-Planet/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+We are currently in need of a way of financing this project. Our estimates are showing that we will need about $72 billion. We are also in need of about 8 pennies.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Yeah right! This site was made for humorous purposes only, I'm not giving away my contact info.
