@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to A Penny On Every Planet
 
-You can use the [editor on GitHub](https://github.com/SwagGothamCoder/A-Penny-On-Every-Planet/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is the official site of the long desired goal of Abraham Lincoln to place a penny on every planet in our solar system. This website would not be possible without the free service of GitHub Pages and my frightening amount of spare time.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Placing a penny on every planet is part of what it means to be human. This monumental embarkment will change humanity forever. Every man and woman for centuries will be proud of our endeavors. JFK once said in a famous speech, "We choose to go to the moon in this decade and do the other things, not because they are easy, but because they are hard" [(NASA)](https://www.nasa.gov/50th/50th_magazine/kennedyLetter.html). We now know that putting a penny on every planet is one of those "other things" that define us as humans and will test the limits of our technological capabilities. This challenge to place a penny on every planet in our solar system began with the moon landings and will be the pinacle of space exploration.
 
 ### Markdown
 
