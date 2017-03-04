@@ -1,3 +1,4 @@
+
 ## Welcome to A Penny On Every Planet
 
 This is the official site of the long desired goal of Abraham Lincoln to place a penny on every planet in our solar system. This website would not be possible without the free service of GitHub Pages and my frightening amount of spare time.
@@ -8,13 +9,17 @@ Placing a penny on every planet is part of what it means to be human. This monum
 
 It may seem a little strange, but honoring our 16th president by placing his face on all the planets will actually aid our advancement in technology and will strengthen our economy.
 
-1. This will bring and estimated 18,000 jobs to our economy, because since this will obviously be the top priority for NASA they will need to hire a temporary 18,000 more employees to run whatever else they were doing before this. [(NASA)](https://www.nasa.gov/audience/forstudents/5-8/features/nasa-knows/what-is-nasa-58.html).
+## Reasons why this is a good idea:
 
-```markdown
-Reasons why this is a good idea:
+1. Pennies are awesome.
 
-1. This will bring an estimated 10
-```
+2. This will bring and estimated 18,000 jobs to our economy, because since this will obviously be the top priority for NASA they will need to hire a temporary 18,000 more employees to run whatever else they were doing before this. [(NASA)](https://www.nasa.gov/audience/forstudents/5-8/features/nasa-knows/what-is-nasa-58.html).
+
+3. We will learn more about launching pennies into deep space.
+
+4. Think of all the things we could learn about deep space projectiles being aimed at high speed moving targets (The Planets). If we ever decide to send quarters we'll be ready!
+
+5. For a sense of accomplishment.
 
 Let's place A Penny On Every Planet and MAKE OUR SOLAR SYSTEM GREAT AGAIN!!!
 
